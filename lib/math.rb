@@ -13,9 +13,9 @@ difference
 end
 
 def division(num1 , num2)
- quotient = (num2 / num1)
- num2 = 50
- num1 = 2
+ quotient = (num1 / num2)
+ num1 = 50
+ num2 = 2
  quotient
 end
 
