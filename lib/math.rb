@@ -6,9 +6,9 @@ sum
 end
 
 def subtraction (num1, num2)
- difference = (num2 - num1)
- num2 = 10
- num1 = 5
+ difference = (num1 - num2)
+ num2 = 5
+ num1 = 10
 difference
 end
 
