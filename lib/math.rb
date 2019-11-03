@@ -5,14 +5,14 @@ def addition(num1, num2)
 sum
 end
 
-def subtraction (num1 , num2)
+def subtraction (num1, num2)
  difference = (num2 - num1)
  num2 = 10
  num1 = 5
- print difference
+difference
 end
 
-def division (num1 , num2)
+def division(num1 , num2)
  quotient = (num2 / num1)
  num2 = 50
  num1 = 2
@@ -36,5 +36,5 @@ end
 def square_root(num)
   root = Math.sqrt(num)
   num = 81
- answer
+ root
 end
